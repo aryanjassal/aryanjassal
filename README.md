@@ -1,16 +1,19 @@
-### Hi there 👋
+## Yo, Aryan here ✌️
 
-<!--
-**aryanjassal/aryanjassal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You are currently looking at the profile of the smartest person alive right now. I'm not only incredibly smart, but also incredibly lazy too.
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjassal&show_icons=true&theme=tokyonight" style="height: 12rem;" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjassal&layout=compact&theme=tokyonight&langs_count=6" style="height: 12rem;" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- My name is Aryan Jassal
+- I'm an anime addict
+- I love reading
+
+### Fields of interest
+- Low-level programming
+- Designing a calculator in Minecraft
