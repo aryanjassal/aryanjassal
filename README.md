@@ -19,7 +19,7 @@ You are currently looking at the profile of the smartest person alive right now.
 <br>
 <br>
 
-## 🧰 My Toolbox
+## 🛠️ Things I use
 ### 👉 IDEs and Code Editors
 <p>
   <a href="https://github.com/tard916/programming-badges">
