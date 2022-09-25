@@ -1,6 +1,6 @@
 # Yo, Aryan here ✌️
 
-You are currently looking at the profile of the smartest person alive right now. I'm not only incredibly smart, but also incredibly lazy too. Oh, and I use Arch btw.
+You are currently looking at the profile of the smartest person alive right now. Oh, and also, I use Arch btw.
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
